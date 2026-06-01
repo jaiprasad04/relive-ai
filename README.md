@@ -11,7 +11,7 @@
 
 **GitHub Repository:** [github.com/SamurAIGPT/relive-ai](https://github.com/SamurAIGPT/relive-ai)
 
-**Live Demo:** [relive-ai.vercel.app](https://relive-ai.vercel.app/)
+**Live Demo:** [relive-ai-beta.vercel.app](https://relive-ai-beta.vercel.app/)
 
 ---
 
@@ -76,9 +76,9 @@ ReLive AI is a premium SaaS web application that generates photorealistic and dr
 4. **Build Script**: Project builds automatically using `prisma generate && next build`.
 5. **Database sync**: Run `npx prisma db push` to generate tables.
 6. **Callbacks**:
-   - Google: `https://relive-ai.vercel.app/api/auth/callback/google`
-   - Stripe Webhook: `https://relive-ai.vercel.app/api/webhook/stripe`
-   - MuAPI: `https://relive-ai.vercel.app/api/webhook/muapi`
+   - Google: `https://relive-ai-beta.vercel.app/api/auth/callback/google`
+   - Stripe Webhook: `https://relive-ai-beta.vercel.app/api/webhook/stripe`
+   - MuAPI: `https://relive-ai-beta.vercel.app/api/webhook/muapi`
 
 ---
 
